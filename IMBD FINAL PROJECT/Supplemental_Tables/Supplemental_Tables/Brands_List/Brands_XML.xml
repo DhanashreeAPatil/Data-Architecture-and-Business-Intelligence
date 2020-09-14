@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="false" label="Rank" length="10"
+        nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_Integer"/>
+    <column comment="" default="" key="false" label="Release"
+        length="255" nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Lifetime_Gross"
+        length="20" nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Max_Theaters"
+        length="10" nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Opening_Gross"
+        length="20" nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Open_Theaters"
+        length="10" nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Release_Date"
+        length="23" nullable="true" originalDbColumnName=""
+        pattern="&quot;mmm dd, yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Distributor"
+        length="255" nullable="true" originalDbColumnName=""
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+</schema>
